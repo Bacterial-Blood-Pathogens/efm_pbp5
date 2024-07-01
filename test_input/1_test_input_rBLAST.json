@@ -1,0 +1,10 @@
+{
+
+    "email": "",
+    "api_key": "",
+    "makeblastdb_file": "test_input/makeblastdb.sh",
+    "blastp_db": "Efaecium_SRR24",
+    "query_seqs":"test_input/PBP5_query.fasta",
+    "query_genomes": "test_input/Enterococcus_CompleteGenomes.csv",
+    "output_file": "Enterococcus_PBP5_output.tsv"
+}
